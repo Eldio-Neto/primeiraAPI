@@ -1,4 +1,4 @@
-var url = 'https://economia.awesomeapi.com.br/last/USD-BRL'
+var url = 'https://economia.awesomeapi.com.br/json/USD-BRL'
 
 
 function Converter(){
